@@ -1,4 +1,5 @@
 # Conversation Web App Template
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Config App
@@ -19,7 +20,7 @@ export const APP_INFO: AppInfo = {
   description: '',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans'
+  default_language: ''
 }
 
 export const isShowPrompt = true
