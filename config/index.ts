@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
 
-  title: 'Stellar Recruiting Agent',
+  title: 'Stellar Agent',
   description: 'This PoC helps sales propose attractive candidates during the client meeting. The tool is a multisourced agent, considering different knowledge sources before delivering suggestions',
   copyright: 'Meliora',
   privacy_policy: 'To Be Defined',
