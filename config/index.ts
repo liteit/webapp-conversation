@@ -4,9 +4,9 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
 
-  title: 'SkolAI - SaaS Startup Mentor',
-  description: 'Now you can generate and refine a truly innovative, high-potential SaaS product idea. We are eager to help you as an aspiring entrepreneur. This is our contribution to make dreams come to life! Full speed ahead Ali, Nicklas, Onat and Magnus',
-  copyright: 'SkolAI',
+  title: 'Stellar Recruiting Agent',
+  description: 'This PoC helps sales propose attractive candidates during the client meeting. The tool is a multisourced agent, considering different knowledge sources before delivering suggestions',
+  copyright: 'Meliora',
   privacy_policy: 'To Be Defined',
   default_language: 'en',
 
